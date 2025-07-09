@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683321627217",
+    "project_id": "whetherapp-874e6",
+    "storage_bucket": "whetherapp-874e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683321627217:android:15d6818d47fcc1290d9e70",
+        "android_client_info": {
+          "package_name": "com.example.whetherapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2zJkFaRRGljpVdj_b2Q_ix6PgpAXr-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
